@@ -8,11 +8,16 @@ h1 {
     font-weight: 700;
 }
 
+section {
+    margin-bottom: 100px;
+}
+
 .header {
     background-image: url(images/cover-image.jpg);
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
+    margin-bottom: 100px;
 }
 
 .header-text {
@@ -38,4 +43,35 @@ h1 {
 
 .donate-button {
     padding-top: 2%;
+}
+
+.donate-section-header {
+    text-align: center;
+}
+
+.donate-text {
+    margin-bottom: 6%;
+}
+
+.amount-option h2 {
+    display: inline;
+    font-size: 28px;
+    color: #464646;
+
+}
+
+.other {
+    background-color: #FAFAFA;
+    padding: 25px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.selected-payment {
+    color: #ff6347;
+    background-color: #FFEEEE;
+    padding: 25px;
+    border: 2px solid #ff6347;
+    border-radius: 5px;
 }
