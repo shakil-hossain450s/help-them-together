@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arima', cursive;
+    margin: 0;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.header {
+    background-image: url(images/cover-image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.header-text {
+    text-align: center;
+    color: #ffffff;
+}
+
+.text {
+    padding-top: 13%;
+}
+
+.header-text p {
+    font-size: 18px;
+}
+
+.main-button {
+    text-decoration: none;
+    background-color: #ff6347;
+    color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 30px;
+}
+
+.donate-button {
+    padding-top: 2%;
+}
