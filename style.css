@@ -211,3 +211,18 @@ section {
     border-radius: 0 5px 5px 0;
     margin-left: -5px;
 }
+
+.added-footer {
+    background-color: #0b0d17;
+    text-align: center;
+    padding: 20px;
+}
+
+.added-footer h2 {
+    font-size: 30px;
+    color: #99434c;
+}
+
+.added-footer p {
+    color: #FAFAFA;
+}
