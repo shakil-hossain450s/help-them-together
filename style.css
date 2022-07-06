@@ -45,6 +45,11 @@ section {
     padding-top: 2%;
 }
 
+.donate-today {
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
 .donate-section-header {
     text-align: center;
 }
@@ -91,4 +96,48 @@ section {
 
 .donate-price-section {
     margin-top: 2%;
+}
+
+.donate-plan-section {
+    padding: 0 5%;
+}
+
+.donate-plan-header {
+    text-align: center;
+}
+
+.donate-plan-header h1 {
+    margin-bottom: 0.5%;
+}
+
+.squre {
+    display: flex;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    text-align: justify;
+}
+
+.common {
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 30px 30px 20px 35px;
+    border-radius: 10px;
+}
+
+#squre-one {
+    background-color: #eafafc;
+}
+
+#squre-two {
+    background-color: #fde6e6;
+}
+
+#squre-three {
+    background-color: #fcefcc;
+}
+
+.squre-three-text p {
+    color: #707070;
 }
