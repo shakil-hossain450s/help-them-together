@@ -75,3 +75,20 @@ section {
     border: 2px solid #ff6347;
     border-radius: 5px;
 }
+
+.other-amount-selection {
+    padding-top: 6%;
+    border-bottom: 0.5px solid #DADADA;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.other-amount-selection p {
+    font-size: 16px;
+    color: #B3B3B3;
+}
+
+.donate-price-section {
+    margin-top: 2%;
+}
